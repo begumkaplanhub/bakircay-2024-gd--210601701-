@@ -1,3 +1,7 @@
+
+## Not:
+Bu proje güncellenmiştir ve yeni bir GitHub repository'sine taşınmıştır.  
+Güncel GitHub linki: [https://github.com/begumkaplanhub/bakircay-2024-gd---210601701-](https://github.com/begumkaplanhub/bakircay-2024-gd---210601701-)  
 # Midterm Projesi: Eşleştirme Oyunu
 
 **Ad:** Begüm Kaplan  
