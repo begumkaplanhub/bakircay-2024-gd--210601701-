@@ -362,6 +362,7 @@
 "Assets/Scripts/DragObject.cs"
 "Assets/Scripts/NewBehaviourScript.cs"
 "Assets/Scripts/ObjectSpawner.cs"
+"Assets/Scripts/PlacementArea.cs"
 -langversion:9.0
 /deterministic
 /optimize+

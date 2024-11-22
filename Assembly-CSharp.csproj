@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\Scripts\ObjectSpawner.cs" />
     <Compile Include="Assets\Scripts\DragObject.cs" />
+    <Compile Include="Assets\Scripts\PlacementArea.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
